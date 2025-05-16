@@ -1,3 +1,4 @@
 <resources>
     <string name="app_name">CazarPatos</string>
+    <string name="LoginText">Login Here!</string>
 </resources>
