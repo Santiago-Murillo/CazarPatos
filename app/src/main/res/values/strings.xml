@@ -1,5 +1,5 @@
 <resources>
-<!--    <string name="app_name">CazarPatos</string>-->
+    <!--    <string name="app_name">CazarPatos</string>-->
     <string name="LoginText">Login Here!</string>
 
     <string name="app_name">Duck Hunter</string>
@@ -17,4 +17,7 @@
     <string name="button_restart">Restart</string>
     <string name="button_close">Close</string>
 
+    <string name="text_hall_of_fame">hall of fame</string>
+    <string name="text_ducks">Ducks</string>
+    <string name="text_player">Player</string>
 </resources>
